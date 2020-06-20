@@ -6,7 +6,7 @@ The `src` folder contains editable files, while the `dist` folder contains the f
 
 The `src` folder contains two folders where the content resides: `pages` and `assets`. 
 
-Let's look at `pages` first. This folder contains a list of all the pages that will be served on the wiki. 
+`Pages` contains all the pages that will be served on the wiki. 
 ```
 pages
     Description.pug
@@ -14,6 +14,6 @@ pages
     Human_Practices.pug
     ...
 ```
-The `assets` folder contains images which will be described in greater detail in [the Images section](7-images.md).
+The `assets` folder contains images which will be described in greater detail in [the Images section](images.md).
 
 
